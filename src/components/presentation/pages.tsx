@@ -54,7 +54,7 @@ const posts = [
     img: "Logo.png",
     title: "Introduction to Nia",
     desc: "Welcome to Nia it can answer any question you throw at it. How smart is it?",
-    url: "https://demos.creative-tim.com/astro-launch-ui/about",
+    url: "https://demos.nia.co.zw/astro-launch-ui/about",
   },
   {
     img: "blocks.png",

@@ -182,7 +182,7 @@ function NavList() {
       <AccountListMenu />
       <Typography
         as="a"
-        href="https://www.creative-tim.com/learning-lab/astro/quick-start/astro-launch-ui/"
+        href="#"
         variant="small"
         color="blue-gray"
         className="font-normal"

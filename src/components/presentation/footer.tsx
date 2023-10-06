@@ -29,11 +29,11 @@ const SOCIAL_MEDIA = [
 const COMPANY = [
   {
     name: "About Us",
-    link: "https://www.creative-tim.com/presentation?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/presentation?ref=astrolaunch-ui",
   },
   {
     name: "Blog",
-    link: "https://www.creative-tim.com/blog?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/blog?ref=astrolaunch-ui",
   },
   {
     name: "Github",
@@ -41,22 +41,22 @@ const COMPANY = [
   },
   {
     name: "Free Products",
-    link: "https://www.creative-tim.com/templates/free?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/templates/free?ref=astrolaunch-ui",
   },
 ];
 
 const HELP = [
   {
     name: "Knowledge Center",
-    link: "https://www.creative-tim.com/knowledge-center?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/knowledge-center?ref=astrolaunch-ui",
   },
   {
     name: "Contact Us",
-    link: "https://www.creative-tim.com/contact-us?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/contact-us?ref=astrolaunch-ui",
   },
   {
     name: "Premium Support",
-    link: "https://www.creative-tim.com/support-terms?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/support-terms?ref=astrolaunch-ui",
   },
   {
     name: "Pricing",
@@ -67,11 +67,11 @@ const HELP = [
 const RESOURCES = [
   {
     name: "Documentation",
-    link: "https://www.creative-tim.com/learning-lab/astro/overview/astro-launch-ui?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/learning-lab/astro/overview/astro-launch-ui?ref=astrolaunch-ui",
   },
   {
     name: "Custom Development",
-    link: "https://www.creative-tim.com/services/updivision?ref=astrolaunch-ui",
+    link: "https://www.nia.co.zw/services/updivision?ref=astrolaunch-ui",
   },
   {
     name: "Discord",
@@ -224,7 +224,7 @@ export function Footer() {
               </a>{" "}
               by{" "}
               <a
-                href="https://www.creative-tim.com?ref=astrolaunch-ui"
+                href="https://www.nia.co.zw?ref=astrolaunch-ui"
                 target="_blank"
                 rel="noreferrer"
                 className="text-inherit transition-all"
