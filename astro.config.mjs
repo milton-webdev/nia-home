@@ -11,5 +11,5 @@ const isProd = process.env.NODE_ENV === "production";
 export default defineConfig({
   integrations: [react(), tailwind()],
   site: "https://www.github.com/milton-webdev/nia",
-  base: "/astro-launch-ui/",
+  base: "/",
 });
